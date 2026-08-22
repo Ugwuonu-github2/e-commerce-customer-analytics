@@ -100,12 +100,29 @@ Analysis included:
 
 ## 📊 Visualizations
 
-- One-Time vs. Repeat Customers
-- Customer Distribution by Segment
-- Revenue Contribution by Segment
-- CLV Distribution
-- Pareto Analysis
-- Top 10 High-Value Customers
+### Customer Behavior
+
+![One-Time vs. Repeat Customers](visualizations/one_time_vs_repeat_customers.png)
+
+### Customer Segmentation
+
+![Customer Distribution by Segment](visualizations/customer_distribution_by_segment.png)
+
+### Revenue Contribution
+
+![Revenue Contribution by Segment](visualizations/revenue_contribution_by_segment.png)
+
+### Customer Lifetime Value
+
+![CLV Distribution](visualizations/clv_distribution.png)
+
+### Pareto Analysis
+
+![Pareto Analysis](visualizations/pareto_analysis.png)
+
+### High-Value Customers
+
+![Top 10 High-Value Customers](visualizations/top_10_high_value_customers.png)
 
 ## 💡 Executive Recommendations
 
