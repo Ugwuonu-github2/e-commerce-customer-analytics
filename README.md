@@ -120,7 +120,7 @@ Analysis included:
 ## 🔗 Project Links
 
 - **Kaggle:** [E-Commerce Customer Analytics](https://www.kaggle.com/code/ugwuonudennis/e-commerce-customer-analytics)
-- **GitHub Repository:** [E-Commerce Customer Analytics](https://github.com/ugwuonudennis/e-commerce-customer-analytics)
+- **GitHub Repository:** [E-Commerce Customer Analytics](https://github.com/ugwuonu-github2/e-commerce-customer-analytics)
 
 ## 👤 Author
 
