@@ -190,5 +190,6 @@ Based on the customer segmentation and value analysis, the following strategies 
 
 ## 🌐 Connect With Me
 
-- 🐙 **GitHub:** [@ugwuonudennis](https://github.com/ugwuonudennis)
+- 🐙 **GitHub:** [Dennis Chinonso Ugwuonu](https://github.com/ugwuonu-github2)
 - 💼 **LinkedIn:** [Dennis Chinonso Ugwuonu](https://www.linkedin.com/in/dennis-chinonso-ugwuonu-6b121624b/)
+
